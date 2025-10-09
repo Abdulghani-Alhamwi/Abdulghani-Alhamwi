@@ -10,7 +10,7 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C++
 
 ## 🔧 Tech Stack  
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,git,github,mysql,postgresql,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,git,github,C++" />
 </p>
 
 ---
