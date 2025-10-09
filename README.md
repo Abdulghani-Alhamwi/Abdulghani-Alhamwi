@@ -16,7 +16,7 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C++
 ---
 
 ## 📌 Featured Projects  
-- 💳 [Bank Management System](https://github.com/your-repo) – Console-based **C++** application for managing core banking operations.  
+- 💳 [Bank Management System]([https://github.com/your-repo](https://github.com/Abdulghani-Alhamwi/Bank-Management-System.git)) – Console-based **C++** application for managing core banking operations.  
   Includes secure user authentication, client account management, transaction processing, user management, and currency exchange.  
 
 - 📋 [Task Management System](https://github.com/your-repo) – Windows Forms app in **C#** for daily task management.  
