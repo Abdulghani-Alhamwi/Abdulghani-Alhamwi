@@ -10,7 +10,14 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C++
 
 ## 🔧 Tech Stack :
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,mysql,visualstudio,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server.svg" />
+<img src="https://skillicons.dev/icons?i=visualstudio" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
