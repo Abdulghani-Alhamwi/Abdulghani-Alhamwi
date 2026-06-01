@@ -3,7 +3,7 @@
 ---
 
 ## 💼 Career Focus  
-**Software Developer | Backend Developer | Aspiring Full-Stack Developer**  
+**Software Developer | Backend Developer | Full Stack Desktop Developer**  
 Dedicated to building **robust, scalable, and maintainable systems** using **C++** and **C#**
 
 ---
