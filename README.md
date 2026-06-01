@@ -2,7 +2,8 @@
 
 ---
 
-## 💼 Career Focus :
+## 📖 About Me :
+
 **Software Developer | Backend Developer | Full Stack Desktop Developer**  
 Dedicated to building **robust, scalable, and maintainable systems** using **C++** and **C#**
 
@@ -15,7 +16,8 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C++
 
 ---
 
-## 📖 About Me  :
-Software developer with a strong focus on **backend development**.  
+## 💼 Career Focus :
+
+Focused on **backend development**.  
 Experienced in **C++**, **C#**, and **.NET** technologies.  
-Passionate about building **efficient, maintainable, and scalable software solutions**.  
+Passionate about building **efficient, maintainable, and scalable software solutions**.
