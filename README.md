@@ -10,7 +10,8 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C++
 
 ## 🔧 Tech Stack :
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,mssql,visualstudio,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,git,github,figma" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ---
