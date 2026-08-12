@@ -4,7 +4,7 @@
 
 ## 📖 About Me :
 
-**Software Developer | Backend Developer | Full Stack Desktop Developer**<br>
+**Software Developer | Full Stack Desktop Developer**<br>
 Dedicated to building **robust, scalable, and maintainable systems** using **C++** and **C#**.
 
 ---
