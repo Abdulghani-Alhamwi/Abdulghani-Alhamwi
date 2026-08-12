@@ -4,8 +4,7 @@
 
 ## 📖 About Me :
 
-**Software Developer | Backend Developer | Full Stack Desktop Developer**
-
+**Software Developer | Backend Developer | Full Stack Desktop Developer**<br>
 Dedicated to building **robust, scalable, and maintainable systems** using **C++** and **C#**.
 
 ---
@@ -20,8 +19,7 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C++
 
 ## 💼 Career Focus :
 
-Focused on **backend development**.
+Focused on **backend development**.<br>
+Experienced in **C++**, **C#**, **.NET**, **ADO.NET**, and **SQL** technologies.<br>
 
-Experienced in **C++**, **C#**, **.NET**, **ADO.NET**, and **SQL** technologies.
-
-Passionate about building **efficient, maintainable, and scalable software solutions**.
+Passionate about building **efficient, maintainable, and scalable software solutions**.<br>
