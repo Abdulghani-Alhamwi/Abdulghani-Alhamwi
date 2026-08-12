@@ -21,5 +21,4 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C++
 
 Focused on **backend development**.<br>
 Experienced in **C++**, **C#**, **.NET**, **ADO.NET**, and **SQL** technologies.<br>
-
 Passionate about building **efficient, maintainable, and scalable software solutions**.<br>
