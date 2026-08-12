@@ -19,6 +19,6 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C++
 
 ## 💼 Career Focus :
 
-Focused on **backend development**.<br>
+Focused on **software development**.<br>
 Experienced in **C++**, **C#**, **.NET**, **ADO.NET**, and **SQL** technologies.<br>
 Passionate about building **efficient, maintainable, and scalable software solutions**.<br>
