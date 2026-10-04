@@ -11,7 +11,7 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C#*
 ## 🔧 Tech Stack :
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,visualstudio,git,github,figma" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,git,github,figma" />
 </p>
 
 ---
