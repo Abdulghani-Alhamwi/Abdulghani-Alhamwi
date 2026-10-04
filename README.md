@@ -17,5 +17,6 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C#*
 ---
 
 ## 💼 Career Focus :
-Experienced in **C++**, **C#**, **.NET**, **ADO.NET**, **SQL**, and **query optimization**.
+Experienced in **C++**, **C#**, **.NET**, **.NET Framework**, **ADO.NET**, **SQL**, and **query optimization**.
 Passionate about building **efficient, maintainable, and scalable software solutions**.
+
