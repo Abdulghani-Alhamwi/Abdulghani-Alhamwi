@@ -4,7 +4,7 @@
 
 ## 📖 About Me :
 **Software Developer | Full Stack Desktop Developer**<br>
-Dedicated to building **robust, scalable, and maintainable systems** using **C++** and **C#**.
+Dedicated to building **robust, scalable, and maintainable systems** using **C#** and **C++**.
 
 ---
 
