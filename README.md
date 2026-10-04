@@ -12,7 +12,7 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C#*
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/git/9CA3AF" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=github,figma" />
 </p>
 
