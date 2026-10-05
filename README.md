@@ -9,13 +9,15 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C#*
 ---
 
 ## 🔧 Tech Stack :
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <img src="./assets/icons/cpp.svg" width="48" height="48" alt="C++" />
+  <img src="./assets/icons/csharp.svg" width="48" height="48" alt="C#" />
+  <img src="./assets/icons/dotnet.svg" width="48" height="48" alt=".NET" />
+  <img src="./assets/icons/sql-server.svg" width="48" height="48" alt="SQL Server" />
+  <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" />
+  <img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" />
+  <img src="./assets/icons/figma.svg" width="48" height="48" alt="Figma" />
+</p>
 
 ---
 
