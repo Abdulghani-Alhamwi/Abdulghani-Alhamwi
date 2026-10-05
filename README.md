@@ -9,7 +9,8 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C#*
 ---
 
 ## 🔧 Tech Stack :
-**C++** · **C#** · **.NET** · **.NET Framework** · **SQL Server** · **WinForms** · **ADO.NET** · **Git** · **GitHub** · **Figma**
+**C++, C#, .NET, .NET Framework, SQL Server, WinForms, ADO.NET, Git, GitHub, Figma.**
+
 ---
 
 ## 💼 Career Focus :
