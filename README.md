@@ -9,16 +9,7 @@ Dedicated to building **robust, scalable, and maintainable systems** using **C#*
 ---
 
 ## 🔧 Tech Stack :
-<p align="left">
-  <img src="./assets/icons/cpp.svg" width="48" height="48" alt="C++" />
-  <img src="./assets/icons/csharp.svg" width="48" height="48" alt="C#" />
-  <img src="./assets/icons/dotnet.svg" width="48" height="48" alt=".NET" />
-  <img src="./assets/icons/sql-server.svg" width="48" height="48" alt="SQL Server" />
-  <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" />
-  <img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" />
-  <img src="./assets/icons/figma.svg" width="48" height="48" alt="Figma" />
-</p>
-
+**C++** · **C#** · **.NET** · **.NET Framework** · **SQL Server** · **WinForms** · **ADO.NET** · **Git** · **GitHub** · **Figma**
 ---
 
 ## 💼 Career Focus :
